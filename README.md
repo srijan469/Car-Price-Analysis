@@ -52,4 +52,10 @@
         ♦️ Visualization Car Price Distribution:
         Why? See the overall price range. which car is expensive or which is cheap 
 
+        git/Car-Price-Analysis/image.png
+        ![alt text](image.png)
+
+        ♦️ Car Price vs Mileage:
+        Why? See if higher mileage cars are cheaper.
+
         ![alt text](image-1.png)
