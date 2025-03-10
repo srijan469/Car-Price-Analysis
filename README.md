@@ -43,8 +43,8 @@
            1. Check Basic Statistics
            2. Visualization Car Price Distribution
            3. Car Price vs Mileage
-           4. verage Price by Brand
-           5. rice Comparison by Car Condition
+           4. Average Price by Brand
+           5. Price Comparison by Car Condition
 
         ♦️ Check Basic Statistics
         why? summarizing of numerical columns, count the cars by brand , count of cars by body type
@@ -52,10 +52,40 @@
         ♦️ Visualization Car Price Distribution:
         Why? See the overall price range. which car is expensive or which is cheap 
 
-        git/Car-Price-Analysis/image.png
-        ![alt text](image.png)
-
         ♦️ Car Price vs Mileage:
         Why? See if higher mileage cars are cheaper.
 
-        ![alt text](image-1.png)
+        ♦️ Average Price by Brand:
+         Why? See which car brands are the most expensive.
+
+        ♦️ Price Comparison by Car Condition:
+        Why? See how condition affects price.
+
+# CONCLUSION OR INSIGHTS
+
+✅  Defining the Purpose of Your Analysis
+
+1️⃣ Understanding Pricing Trends – Find factors that impact car prices.
+2️⃣ Helping Buyers/Sellers – Identify best-value cars based on price, year, and condition.
+3️⃣ Business Insights – Help dealerships set competitive pricing strategies.
+4️⃣ Predicting Car Prices (Future Scope) – Build a model to estimate car prices.
+
+
+👉  Luxury brands like Mercedes and BMW have the highest selling prices.Budget brands like Toyota and Ford have a wider price range.
+
+👉 Cars with higher mileage tend to sell for lower prices. There is a negative correlation between odometer and sellingprice.
+
+👉 Well-maintained cars (condition = 5) are significantly more expensive than those in poor condition. Buyers prefer vehicles with better maintenance records.
+
+👉 Automatic cars have higher selling prices compared to manual cars. The demand for manual transmission cars is lower.
+
+👉 Most cars fall within the $10,000 - $30,000 price range. A few luxury/exotic cars cause price outliers.
+
+👉 Most of the buyers prefer to Buy SUV model. rather then other model.
+
+
+🧱 Conlusion:-
+      1. Condition & mileage have a major impact on car prices.
+      2. Luxury brands hold their value better than economy brands.
+      3. Buyers looking for affordable options should consider manual cars with higher mileage.
+      4. Sellers can maximize their profits by maintaining good condition and keeping mileage low.
