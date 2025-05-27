@@ -15,11 +15,11 @@
 
 # 📌 INTRODUCTION OF STEPS OF ANALYZING
 
-      ✅ Defining the Goal:-
+✅ Defining the Goal:-
              Goal: Analyze the factor affecting car prices.
              Dataset: Data set is take from Kaggle which contains car brand, model,  year,mileage, fuel type, price , etc
 
-      ✅ Data cleaning:-
+✅ Data cleaning:-
         ✍️ Quick checklist for Data Cleaning:
            1. Remove Duplicates
            2. Handle missing values
